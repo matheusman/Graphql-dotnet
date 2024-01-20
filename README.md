@@ -1,0 +1,1 @@
+### Graphql application base with dotnet
